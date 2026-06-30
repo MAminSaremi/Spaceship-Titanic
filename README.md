@@ -2,6 +2,11 @@
 
 Predicting whether a passenger was transported to another dimension during the Spaceship Titanic incident, using advanced feature engineering, EDA-driven imputation, and a stacked ensemble of multiple machine learning models.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6-orange)
+![CatBoost](https://img.shields.io/badge/CatBoost-ML-yellow)
+![Kaggle Score](https://img.shields.io/badge/Kaggle-0.76315-blue)
+
 ## 📋 Project Features
 
 ### Feature Engineering
